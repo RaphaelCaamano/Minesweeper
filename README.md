@@ -7,4 +7,4 @@ It is mostly coded in: ![My Skills](https://skillicons.dev/icons?i=js)
 # Video Description:
 The link to my youtube video: https://www.youtube.com/watch?v=nEM5nvF4hkQ
 <br> </br>
-Full in-depth explanation of the game by running it and show how it works.
+My full in-depth explanation of the game that I run and show how it works.
