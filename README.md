@@ -7,4 +7,5 @@ It is mostly coded in: <img src="https://raw.githubusercontent.com/devicons/devi
 
 # Video Description:
 The link to my youtube video: https://www.youtube.com/watch?v=nEM5nvF4hkQ
-<br> </br>My full in-depth explanation of the game and how it works.
+<br> </br>
+My full in-depth explanation of the game and how it works.
