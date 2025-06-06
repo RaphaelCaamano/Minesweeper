@@ -5,7 +5,7 @@ Implemented the Minesweeper game by creating a 10x10 grid and placing random hid
 
 # Information 
 It is mostly coded in: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer">         
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 # Video Description
 Full in-depth explanation of the game and how it works with my code.
