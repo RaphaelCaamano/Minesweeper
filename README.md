@@ -13,4 +13,5 @@ Full in-depth explanation of the game and how it works with my code.
 The link to my youtube video: https://www.youtube.com/watch?v=nEM5nvF4hkQ
 
 
-![MS](https://transienturl.tumblr.com/image/93047542657)
+<img src="https://transienturl.tumblr.com/image/93047542657" width="40" height="40"/> </a>
+
