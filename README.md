@@ -12,3 +12,6 @@ Full in-depth explanation of the game and how it works with my code.
 <br></br>
 The link to my youtube video: https://www.youtube.com/watch?v=nEM5nvF4hkQ
 
+
+
+![lnlBSFC](https://github.com/user-attachments/assets/f63e797a-f57e-428b-b3c1-31ac068af103)
