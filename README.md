@@ -9,5 +9,3 @@ It is mostly coded in: <img src="https://raw.githubusercontent.com/devicons/devi
 Full in-depth explanation of the game and how it works with my code.
 <br></br>
 The link to my youtube video: https://www.youtube.com/watch?v=nEM5nvF4hkQ
-
-
