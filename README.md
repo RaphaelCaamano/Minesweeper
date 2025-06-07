@@ -7,6 +7,4 @@ Implemented the Minesweeper game by creating a 10x10 grid and placing random hid
 The Minesweeper game is primarily programmed in: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/>
 
 # Video Description
-A full in-depth explanation of the implementations of the game with a showcase of how it works with my code.
-<br></br>
-For a detailed presentation of the project, please click the link to the video on my YouTube channel: https://www.youtube.com/watch?v=nEM5nvF4hkQ
+A full in-depth explanation of the implementations of the game with a showcase of how it works with my code. For a detailed presentation of the project, please click the link to the video on my YouTube channel: https://www.youtube.com/watch?v=nEM5nvF4hkQ
