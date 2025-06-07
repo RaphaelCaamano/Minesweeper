@@ -8,6 +8,6 @@ It is mostly coded in: <img src="https://raw.githubusercontent.com/devicons/devi
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
 # Video Description
-Full in-depth explanation of the game and how it works with my code.
+A full in-depth explanation of the implementations of the game with a showcase of how it works with my code.
 <br></br>
 The link to my youtube video: https://www.youtube.com/watch?v=nEM5nvF4hkQ
