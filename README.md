@@ -1,6 +1,8 @@
 # Minesweeper
 Implemented the Minesweeper game by creating a 10x10 grid and placing random hidden "bombs." Each position in the grind represents a button; press it, and it reveals what is underneath. Unless there is no bomb, each button interior will display the number of how many bombs are in that one-tile radius. Win or lose, the game will prompt whether to play once more or close the application.
 
+![lnlBSFC](https://github.com/user-attachments/assets/3e2c5167-1d5f-4ba1-ba2e-233a57ac98a3)
+
 # Information 
 It is mostly coded in: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
