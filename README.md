@@ -9,4 +9,4 @@ The Minesweeper game is primarily programmed in: <img src="https://raw.githubuse
 # Video Description
 A full in-depth explanation of the implementations of the game with a showcase of how it works with my code.
 <br></br>
-The link to my youtube video: https://www.youtube.com/watch?v=nEM5nvF4hkQ
+For a detailed presentation of the project, please click the link to the video on my YouTube channel: https://www.youtube.com/watch?v=nEM5nvF4hkQ
