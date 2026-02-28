@@ -5,6 +5,7 @@ Implemented the Minesweeper game by creating a 10x10 grid and placing random hid
 
 # Information 
 The Minesweeper game is primarily programmed in: 
+
 <img src = "https://github.com/user-attachments/assets/6e37a38c-deb2-49bd-a64c-a190eb979351" alt="image" width="50" height="50"/>
 
 # Video Description
